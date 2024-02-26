@@ -1,0 +1,17 @@
+.navbar form:hover > input {
+    opacity: 1;
+}
+
+.menu {
+    margin-top: 5rem;
+    margin-right: 3rem;
+}
+
+.menu li a:hover {
+    color: rgb(146, 146, 211);
+}
+
+.foto-menu {
+    cursor: pointer;
+}
+
